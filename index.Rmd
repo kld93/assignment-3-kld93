@@ -1,0 +1,17 @@
+---
+title: "Assignment 3 Website"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Collaborators:
+
+#### Katie (https://github.com/kld93)
+
+#### Antonio (https://github.com/antonio-alvarado)
+
+![Loon Mountain in New Hampshire - the mountain I named my dog after!](https://upload.wikimedia.org/wikipedia/commons/e/e9/Loon_Mountain_NH_from_Flume.jpg)
+
