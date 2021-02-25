@@ -1,5 +1,6 @@
-output_dir: "."
+name: "our-website"
 navbar:
+  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
@@ -7,3 +8,10 @@ navbar:
       href: katie-d.html
     - text: "Antonio"
       href: antonio.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true
