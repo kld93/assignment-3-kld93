@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Things about Katie
+### Quick Facts
 
 - I am from Sheldon, Vermont (close to the Canadian border)
 <br>

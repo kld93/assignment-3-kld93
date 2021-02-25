@@ -7,11 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Collaborators:
+## Website Collaborators
+<br>
 
 #### Katie (https://github.com/kld93)
 
 #### Antonio (https://github.com/antonio-alvarado)
+<br>
 
-![Loon Mountain in New Hampshire - the mountain I named my dog after!](https://upload.wikimedia.org/wikipedia/commons/e/e9/Loon_Mountain_NH_from_Flume.jpg)
+!["Competition makes us faster; collaboration makes us better" - Fyrefly 3/26/2013](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn2e_UtMF4V3QkwuZ6aL2N2niQfCgYWuRIw&usqp=CAU)
 
