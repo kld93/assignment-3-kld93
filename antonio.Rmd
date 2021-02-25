@@ -8,12 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-#### Where are you from?
+### Where are you from?
 
 - I am from Allentown, Pennsylvania, which is north of Philadelphia (as you can see from the home page, I am a Sixers fan).
 <br>
 
-#### Education
+### Education
 
 - I am a first-year MS student studying entomology and vector-borne disease biology. My thesis is focused on kissing bugs and Chagas disease.
 - I am a first-generation college student! 

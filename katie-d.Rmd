@@ -8,12 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-#### Where are you from?
+### Where are you from?
 
 - I am from Sheldon, Vermont (close to the Canadian border)
 <br>
 
-#### Education
+### Education
 
 - I earned my Bachelor of Science at Syracuse University (Environmental Engineering)
 - I am pursuing my PhD at Cornell University (Biological and Environmental Engineering)
